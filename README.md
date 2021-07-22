@@ -29,3 +29,5 @@ What makes coding so exciting is its fast pace and the fact that there is always
 ### Reach me @
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/sergioalvarez736/
